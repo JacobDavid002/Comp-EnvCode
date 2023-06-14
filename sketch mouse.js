@@ -120,8 +120,8 @@ function preload() {
    CharacterLoop = img = loadImage("Images/CharacterLoop.gif");
    HeightWarning = img = loadImage("Images/HeightWarning.png");  
    Explosion = img = loadImage("Images/explosion.gif");
-   IntroFilm = img = loadImage("Images/Intro film new.gif");
-   finalCutscene = img = loadImage("Images/final cut scene.gif");
+   IntroFilm = img = loadImage("Images/Intro film new_1.gif");
+   finalCutscene = img = loadImage("Images/final cut scene_1.gif");
 
    Boss = img = loadImage("Images/roboBoss.gif");
 
