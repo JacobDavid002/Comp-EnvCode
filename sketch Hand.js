@@ -145,16 +145,16 @@ function preload() {
 
    tutorial = img = loadImage("Images/tutorial.gif");
 
-   RobotHand1 = img = loadImage("Images/RobotHandAssets/Robothand1.png");
-   RobotHand2 = img = loadImage("Images/RobotHandAssets/Robothand2.png");
-   RobotHand3 = img = loadImage("Images/RobotHandAssets/Robothand3.png");
-   RobotHand4 = img = loadImage("Images/RobotHandAssets/Robothand4.png");
-   RobotHand5 = img = loadImage("Images/RobotHandAssets/Robothand5.png");
-   RobotHand6 = img = loadImage("Images/RobotHandAssets/Robothand6.png");
-   RobotHand7 = img = loadImage("Images/RobotHandAssets/Robothand7.png");
-   RobotHand8 = img = loadImage("Images/RobotHandAssets/Robothand8.png");
-   RobotHand9 = img = loadImage("Images/RobotHandAssets/Robothand9.png");
-   RobotHand10 = img = loadImage("Images/RobotHandAssets/Robothand10.png");
+   RobotHand1 = img = loadImage("RobotHandAssets/Robothand1.png");
+   RobotHand2 = img = loadImage("RobotHandAssets/Robothand2.png");
+   RobotHand3 = img = loadImage("RobotHandAssets/Robothand3.png");
+   RobotHand4 = img = loadImage("RobotHandAssets/Robothand4.png");
+   RobotHand5 = img = loadImage("RobotHandAssets/Robothand5.png");
+   RobotHand6 = img = loadImage("RobotHandAssets/Robothand6.png");
+   RobotHand7 = img = loadImage("RobotHandAssets/Robothand7.png");
+   RobotHand8 = img = loadImage("RobotHandAssets/Robothand8.png");
+   RobotHand9 = img = loadImage("RobotHandAssets/Robothand9.png");
+   RobotHand10 = img = loadImage("RobotHandAssets/Robothand10.png");
 
    openGrabber = img = loadImage("Images/open grabber.png");
    closedGrabber = img = loadImage("Images/closed grabber.png");
